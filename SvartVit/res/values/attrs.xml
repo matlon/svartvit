@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="Brick">
-        <attr name="isWhite" format ="boolean"/>
-        <attr name="force" format ="integer"/>
-    </declare-styleable>
-</resources>
